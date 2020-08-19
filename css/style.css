@@ -867,6 +867,12 @@ animation-delay: .8s;
           transform: translate3D(0,0,0);
 }
 
+
+#team-section .img{
+    width=100px;
+    height=100px;
+}
+
 /*** 
 
 ====================================================================
