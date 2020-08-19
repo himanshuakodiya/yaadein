@@ -868,10 +868,10 @@ animation-delay: .8s;
 }
 
 
-#team-section .team-member-wrapper .float-left .single-team-member .img{
+/**#team-section .team-member-wrapper .float-left .single-team-member .img{
     width:450px;
     height:450px;
-}
+}**/
 
 /*** 
 
