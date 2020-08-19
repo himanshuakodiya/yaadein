@@ -868,7 +868,7 @@ animation-delay: .8s;
 }
 
 
-#team-section .team-member-wrapper .float-left .single-team-member.img{
+#team-section .team-member-wrapper .float-left .single-team-member .img{
     width:100px;
     height:100px;
 }
