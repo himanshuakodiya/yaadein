@@ -777,7 +777,7 @@ animation-delay: .8s;
   background: #e6e6e6;
   overflow: hidden;
   position: relative;
-  min-height: 70px;
+ 
   max-height: 70px;
 }
 #team-section .team-member-wrapper .single-team-member .member-name h6 {
