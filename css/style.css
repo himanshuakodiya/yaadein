@@ -738,7 +738,7 @@ animation-delay: .8s;
   text-transform: capitalize;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity h4 {
-  line-height: 20px;
+  line-height: 40px;
   padding: 0 18px;
   border-width: 1px;
   display: inline-block;
