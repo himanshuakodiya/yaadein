@@ -704,9 +704,9 @@ animation-delay: .8s;
 }
 #team-section .team-member-wrapper .float-left {
   width: 25%;
-  padding: 0 15px;
+  padding: 0 10px;
   overflow: hidden;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 #team-section .team-member-wrapper .single-team-member,
 #team-section .team-member-wrapper .single-team-member .img {
@@ -738,13 +738,13 @@ animation-delay: .8s;
   text-transform: capitalize;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity h4 {
-  line-height: 30px;
+  line-height: 20px;
   padding: 0 13px;
   border-width: 1px;
   display: inline-block;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity span {
-  font-weight: 700;
+  font-weight: 650;
   font-size: 15px;
   display: block;
   margin: 22px 0 15px 0;
