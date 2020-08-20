@@ -721,7 +721,7 @@ animation-delay: .8s;
   right: 0;
   bottom: 0;
   background: rgba(230,230,230,0.9);
-  padding: 45px 0 10px 0;
+  padding: 30px 0 10px 0;
   opacity: 0;
   -webkit-transform: scale(1,0);
      -moz-transform: scale(1,0);
@@ -739,12 +739,12 @@ animation-delay: .8s;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity h4 {
   line-height: 20px;
-  padding: 0 13px;
+  padding: 0 18px;
   border-width: 1px;
   display: inline-block;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity span {
-  font-weight: 650;
+  font-weight: 600;
   font-size: 15px;
   display: block;
   margin: 22px 0 15px 0;
