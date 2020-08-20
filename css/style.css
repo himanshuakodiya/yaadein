@@ -739,7 +739,7 @@ animation-delay: .8s;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity h4 {
   line-height: 40px;
-  padding: 0 18px;
+  padding: 0 13px;
   border-width: 1px;
   display: inline-block;
 }
@@ -747,7 +747,7 @@ animation-delay: .8s;
   font-weight: 600;
   font-size: 15px;
   display: block;
-  margin: 22px 0 15px 0;
+  margin: 18px 0 13px 0;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity p {
   color: #373a3f;
