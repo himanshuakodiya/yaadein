@@ -746,7 +746,7 @@ animation-delay: .8s;
 }
 #team-section .team-member-wrapper .single-team-member .img .opacity span {
   font-weight: 700;
-  font-size: 18px;
+  font-size: 13px;
   display: block;
   margin: 22px 0 15px 0;
 }
@@ -803,9 +803,9 @@ animation-delay: .8s;
   margin-top: 13px;
 }
 #team-section .team-member-wrapper .single-team-member .member-name ul li a {
-  width: 47px;
-  line-height: 45px;
-  font-size: 18px;
+  width: 40px;
+  line-height: 40px;
+  font-size: 13px;
   margin: 0 7px;
   border:1px solid transparent;
 }
@@ -868,10 +868,7 @@ animation-delay: .8s;
 }
 
 
-/**#team-section .team-member-wrapper .float-left .single-team-member .img{
-    width:450px;
-    height:450px;
-}**/
+
 
 /*** 
 
